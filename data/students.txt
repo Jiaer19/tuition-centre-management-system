@@ -1,0 +1,6 @@
+S001 John 120501-01-1234 john@gmail.com 016-4830992 123,Jln_ABC,KL F1 BM BI 2025-02
+S002 Mary 110715-02-2345 mary@gmail.com 012-3578622 77,Jln_DEF,PJ F2 BM Science 2024-01
+S003 Tom 100630-03-3456 tom@gmail.com 018-3556899 9,Jln_GHI,KL F3 Math History Science 2023-02
+S004 Anny 090915-04-4567 anny@gmail.com 017-8566533 11,Jln_JKL,PJ F4 Physics Chemistry 2024-12
+S005 Micheal 080201-05-5678 micheal@gmail.com 011-18085655 12,Jln_XYZ,KL F5 Biology 2024-01
+S006 Jenny 111212-06-6789 jenny@gmail.com 011-16228966 15,Jln_PQR,KL F2 Math 2024-01

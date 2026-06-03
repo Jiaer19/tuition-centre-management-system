@@ -1,0 +1,14 @@
+admin admin Admin A001 Wesley 980110-04-5098 Wesley@gmail.com 019-9887679 99,Jln_QWE,KL
+R001 recept1 Receptionist R001 Alice 012-4569800 alice@gmail.com 011-18055639 42,Jln_PLM,KL
+R002 recept2 Receptionist R002 Carol 920303-03-3456 carol@gmail.com 018-7654321 35,Jln_WX,SLG
+S001 student1 Student S001 John 120501-01-1235 john@gmail.com 016-4830992 123,Jln_ABC,KL
+S002 student2 Student S002 Mary 110715-02-2346 mary@gmail.com 012-3578622 77,Jln_DEF,PJ
+S003 student3 Student S003 Tom 100630-03-3456 tom@gmail.com 018-3556899 9,Jln_GHI,KL
+S004 student4 Student S004 Anny 090915-04-4566 anny@gmail.com 017-8566533 11,Jln_JKL,PJ
+S005 student5 Student S005 Micheal 080201-05-5678 micheal@gmail.com 011-18085655 12,Jln_XYZ,KL
+S006 student6 Student S006 Jenny 111212-06-6789 jenny@gmail.com 011-16228966 15,Jln_PQR,KL
+T001 tutor1 Tutor T001 Jacky 980410-10-5689 jacky@gmail.com 012-4335959 66,Jln_BNM,PJ
+T002 tutor2 Tutor T002 Jackson 990110-01-1177 jackson@gmail.com 019-8879983 13,Jln_STU,KL
+T003 tutor3 Tutor T003 Ally 990525-01-1128 ally@gmail.com 010-1122334 2,Jln_YUI,SLG
+T004 tutor4 Tutor T004 Brian 980626-10-1557 brian@gmail.com 017-2233445 7,Jln_THM,PJ
+T005 tutor5 Tutor T005 Cindy 970220-01-6526 cindy@gmail.com 016-3344556 63,Jln_JKL,KL
